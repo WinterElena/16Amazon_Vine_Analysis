@@ -46,4 +46,4 @@ After reviewing this data, Jennifer and I feel confident that we can go back to 
 
 Our analysis shows a definite positivity bias towards *Nonsubscriber* reviews. For every Vine 5-star review, there were **300** Nonsubscriber reviews!  That's data to pay attention to, Sellby.
 
-Pack your bags, Amazon Vine, you're program isn't for everyone.
+Pack your bags, Amazon Vine, your program isn't for everyone.

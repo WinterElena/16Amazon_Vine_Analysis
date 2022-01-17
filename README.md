@@ -33,7 +33,8 @@ An analysis was done of Amazon reviews comparing the reviews of Amazon Vine prog
 	- Vine Review Percentage: **47.6%**
 	- Non-Vine Review Percentage: **51.5%**
 
-![5-Star](fivestar.jpg)
+![5 Star](images/fivestar.jpg)
+
 
 
 
